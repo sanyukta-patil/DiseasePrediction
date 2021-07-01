@@ -1,1 +1,1 @@
-# DiseasePrediction
+# PredictHubb
